@@ -1,0 +1,87 @@
+header{
+    background-color: #f0fff0;
+}
+section{
+    padding: 50px 0px;
+}
+.nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black !important;
+    font-weight: 400;
+}
+.d-btn{
+    color: #fff !important;
+    padding: 5px 25px !important;
+    border-radius: 30px;
+}
+#hero{
+    background-color: #f0fff0;
+    padding: 100px 0px;
+}
+.achievement .card{
+    border: none;
+    background-color: #f7fffb;
+    transition: .8s;
+}
+.achievement .card:hover{
+    box-shadow: 0px 20px 20px rgba(0,0,0,0.1);
+    background-color: #fff;
+}
+.achievement .card img{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+}
+.achievement .card-body h5{
+    color: #413960;
+    font-weight: 500;
+}
+.achievement .card-body p{
+    color: #585859;
+    font-weight: 400;
+}
+.course_item{
+    padding: 50px 0px;
+}
+.card-body button{
+    margin-left: 0px;
+}
+
+#Courses .card{
+    border: none;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
+}
+#Courses .card h5{
+    color: #413960;
+    font-weight: 500;
+}
+#Courses .card p{
+    color: #585859;
+    font-weight: 400;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card-footer p{
+    color: #585859;
+    font-weight: 500;
+}
+footer{
+    padding-top: 40px;
+    padding-bottom: 10px;
+    background-color: #272530;
+    color: #fff;
+}
+.footer_menu a{
+    display: block;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: 300;
+}
+.footer_end{
+    margin-top: 50px;
+    color: #cdcdcd;
+    font-weight: 400;
+}
